@@ -1,4 +1,14 @@
 <!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)If you want the template for my gif, email me! -->
+this is me😄
+
+- 🔭 I’m currently working on LanshanTeam
+- 🌱 I’m currently learning DeepLearning
+- 👯 I’m looking to collaborate on MaYi
+- 🤔 I’m looking for help with......
+- 💬 Ask me about your info
+- 📫 How to reach me: 2934610933@qq.com OR 17782371046
+- 😄 Pronouns: you are my friend
+- ⚡ Fun fact: badmiton code play-with-somePeople victory circle can-run-a-5-kilometers-in-20-minutes
 
 ### Languages
 
