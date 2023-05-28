@@ -9,7 +9,7 @@ this is me😄
 - 💬 Ask me about your info
 - 📫 How to reach me: 2934610933@qq.com OR 17782371046
 - 😄 Pronouns: you are my friend
-- ⚡ Fun fact: badmiton code play-with-somePeople victory circle can-run-a-5-kilometers-in-20-minutes
+- ⚡ Can you play badmiton with me?
 
 ### Languages
 
@@ -50,3 +50,6 @@ this is me😄
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools) -->
 
 <a href="https://www.wjywy.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=wjywy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjywy&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/wjywy/wjywy/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
