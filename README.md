@@ -3,6 +3,7 @@
 this is me😄
 
 - 🔭 I’m currently working on LanshanTeam
+- my age is 20
 - 🌱 I’m currently learning DeepLearning
 - 👯 I’m looking to collaborate on MaYi
 - 🤔 I’m looking for help with......
