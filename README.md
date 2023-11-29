@@ -12,6 +12,27 @@ this is me😄
 - 😄 Pronouns: you are my friend
 - ⚡ Can you play badmiton with me?
 
+- 💼 实习经历
+
+<img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
+
+- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-11 —— 至今
+
+  - 工作岗位：前端实习生
+  - 工作部门：meg
+  - 工作方向：灵境矩阵平台开发，百度小程序渲染引擎开发
+
+- [九号科技](https://www.ninebot.com/aboutUs/) &emsp; 📌 2023-06 —— 2023-09
+
+  - 工作岗位：前端实习生
+  - 工作部门：前端开发部
+  - 工作方向：九号编辑器开发、九号商城小程序后续开发
+ 
+
+✍️ 技术博客
+
+  - [语雀](https://www.yuque.com/u29297079)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
