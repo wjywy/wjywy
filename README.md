@@ -5,7 +5,6 @@ this is me😄
 - 🔭 I’m currently working on LanshanTeam
 - my age is 20
 - 🌱 I’m currently learning DeepLearning
-- 👯 I’m looking to collaborate on MaYi
 - 🤔 I’m looking for help with......
 - 💬 Ask me about your info
 - 📫 How to reach me: 2934610933@qq.com OR 17782371046
