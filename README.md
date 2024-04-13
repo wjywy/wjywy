@@ -15,7 +15,13 @@ this is me😄
 
 <img align="right" width="100" height="100" src="https://img.sj33.cn/uploads/202009/7-20092H12GA16.jpg" />
 
-- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-11 —— 至今
+- [字节跳动](https://home.byteDance.com/) &emsp;&emsp;&emsp; 📌 2024-4 —— 至今
+
+  - 工作岗位：前端实习生
+  - 工作部门：懂车帝
+  - 工作方向：二手车业务开发
+
+- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-11 —— 2023.4
 
   - 工作岗位：前端实习生
   - 工作部门：meg
