@@ -3,7 +3,7 @@
 this is me😄
 
 - 🔭 I’m currently working on ByteDance
-- my age is 20
+- my age is 21
 - 🌱 I’m currently learning Rust in FE
 - 📫 How to reach me: 2934610933@qq.com OR 17782371046
 - 😄 Pronouns: Love/Life and Work balance
