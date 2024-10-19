@@ -1,8 +1,6 @@
 <!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)If you want the template for my gif, email me! -->
 
 this is me😄
-
-- 🔭 I’m currently working on ByteDance
 - my age is 21
 - 🌱 I’m currently learning Rust in FE
 - 📫 How to reach me: 2934610933@qq.com OR 17782371046
@@ -12,7 +10,7 @@ this is me😄
 
 <img align="right" width="100" height="100" src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fhd1080.pro%2F24526.html&psig=AOvVaw0MTudEE3jOQd_ot6KvO6jg&ust=1713197501546000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICc8JWMwoUDFQAAAAAdAAAAABAE" />
 
-- [字节跳动](https://www.bytedance.com/zh/) &emsp;&emsp;&emsp; 📌 2024-4 —— 至今
+- [字节跳动](https://www.bytedance.com/zh/) &emsp;&emsp;&emsp; 📌 2024-4 —— 9.27
 
   - 工作岗位：前端实习生
   - 工作部门：懂车帝
