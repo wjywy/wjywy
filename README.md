@@ -2,7 +2,7 @@
 
 this is me😄
 - my age is 21
-- 🌱 I’m currently learning Rust in FE
+- 🌱 I’m currently learning Rust in FE, AI in FE
 - 📫 How to reach me: 2934610933@qq.com OR 17782371046
 - 😄 Pronouns: Love/Life and Work balance
 
