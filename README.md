@@ -10,14 +10,20 @@ this is me😄
 
 <img align="right" width="100" height="100" src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fhd1080.pro%2F24526.html&psig=AOvVaw0MTudEE3jOQd_ot6KvO6jg&ust=1713197501546000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICc8JWMwoUDFQAAAAAdAAAAABAE" />
 
-- [字节跳动](https://www.bytedance.com/zh/) &emsp;&emsp;&emsp; 📌 2024-4 —— 9.27
+- [大疆创新](https://www.bytedance.com/zh/) &emsp;&emsp;&emsp; 📌 2024-11 —— 至今
+
+  - 工作岗位：前端开发工程师
+  - 工作部门：互联网事业部
+  - 工作方向：公共技术领域开发&基建建设
+
+- [字节跳动](https://www.bytedance.com/zh/) &emsp;&emsp;&emsp; 📌 2024-4.19 —— 9.27
 
   - 工作岗位：前端实习生
   - 工作部门：懂车帝
   - 工作方向：二手车业务开发
 
 
-- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-11 —— 2023.4
+- [百度](https://home.baidu.com/) &emsp;&emsp;&emsp; 📌 2023-11 —— 2023.4。17
 
   - 工作岗位：前端实习生
   - 工作部门：meg
@@ -28,6 +34,8 @@ this is me😄
   - 工作岗位：前端实习生
   - 工作部门：前端开发部
   - 工作方向：九号编辑器开发、九号商城小程序后续开发
+ 
+    
  
 
 ✍️ 技术博客
